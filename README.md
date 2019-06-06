@@ -5,7 +5,7 @@ Tool for searching kinase binding sites and potential phosphorylated residues in
 
 # Reference
 
-Under reviewing.
+Galliou, P. A., Verrou, K. M. 2019. An in silico method for studying the phosphorylation in association to active sites. Aristotle Biomedical Journal, 1(1) 48-59.
 
 # Requirements
 
